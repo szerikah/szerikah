@@ -43,15 +43,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=szerikah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <h3 align="center">
-
-<br>
-
-<h3 align="center">📫 Let's Connect!</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/érika-souza-2608152a8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
   
 </div>
 
